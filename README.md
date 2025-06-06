@@ -10,3 +10,8 @@
 <p style="color: red;">This text is red.</p>
 
 <span style="color: #1abc9c;">This text is turquoise.</span>
+
+`inline code`
+
+```python
+print("code block")
